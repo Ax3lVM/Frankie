@@ -40,6 +40,8 @@ public class Main {
             
             //Agregar pasos
             
+            //No se les olvide
+            
             receta.setDificultad(Dificultad.LEGENDARIO);
             //uwu
     }
