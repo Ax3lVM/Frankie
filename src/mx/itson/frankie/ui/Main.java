@@ -41,6 +41,7 @@ public class Main {
             //Agregar pasos
             
             //No se les olvide
+            //xd
             
             receta.setDificultad(Dificultad.LEGENDARIO);
             //uwu
